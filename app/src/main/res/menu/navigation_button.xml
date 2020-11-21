@@ -10,4 +10,8 @@
         android:id="@+id/id_profil"
         android:icon="@drawable/ic_profil"
         android:title="@string/profil" />
+    <item
+        android:id="@+id/id_info"
+        android:icon="@drawable/ic_info"
+        android:title="info" />
 </menu>

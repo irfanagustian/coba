@@ -16,8 +16,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-
         bottomNavigationView.setOnNavigationItemSelectedListener(onBottomNavigationListener)
         var fragment = supportFragmentManager.beginTransaction()
         fragment.add(R.id.fl, HomeFragment())
@@ -34,6 +32,9 @@ class MainActivity : AppCompatActivity() {
             }
             R.id.id_profil -> {
                 selectedFragment =ProfilFragment()
+            }
+            R.id.id_info -> {
+                selectedFragment = BlankFragment()
             }
         }
 
