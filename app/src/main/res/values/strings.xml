@@ -2,4 +2,16 @@
     <string name="app_name">coba</string>
     <string name="hello">hello</string>
     <string name="tekan">coba tekan</string>
+    <string name="neo_telemetri">NEO TELEMETRI</string>
+    <string name="selamat_datang">SELAMAT DATANG DI</string>
+    <string name="masuk">MASUK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profil">profil</string>
+    <string name="home">home</string>
+    <string name="keluar">KELUAR</string>
+    <string name="divisi">Divisi : Programming</string>
+    <string name="nama_irfan">Nama : Irfan Agustian</string>
+    <string name="sub_divisi">Sub Divisi : Mobile Programming</string>
+    <string name="selmas">Selamat Anda Sudah Masuk</string>
 </resources>
